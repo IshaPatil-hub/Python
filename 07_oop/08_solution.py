@@ -22,7 +22,7 @@ class Car:
     def general_description():
         return "Cars are means of transport" 
     
-    @property
+    @property0
     def model(self):
         return self.model
     
